@@ -1,7 +1,5 @@
 name: flutter_alert_package
 description: An Alert Flutter package.
-## from the terminal: "git add -f .idea/dictionaries" to port dictionary of added words like sqflite
-# Paste just below 'description:'
 
 version: 0.0.1+1
 
